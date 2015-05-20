@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="jbaconcheese@mikros" APIVersion="9" Name="GoonbatLog" Description="Creates a seperate window for scrolling text">
+    <Script Name="GoonbatLog.lua"/>
+    <Script Name="GUtils.lua"/>
+    <Script Name="gSettings.lua"/>
+    <Form Name="GoonbatLog.xml"/>
+    <ReplaceAddon Name="FloatText"/>
+</Addon>
